@@ -8,3 +8,6 @@ HTML code was rewritten with semantic elements
 "class" and "id" tags were utilized and consolidated in order to cut out unecessary lines of code in the CSS stylesheet.
 Alt tags were applied to all images on the page.
 "href" tags were adjusted to ensure they pulled users to the correct area on the webpage.
+
+## Production Website
+Refactored Webpage: https://lukejohnsen.github.io/horiseon-code-refactor/
